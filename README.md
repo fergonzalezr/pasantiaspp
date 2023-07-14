@@ -9,7 +9,7 @@ Video Demo:
 
 [![Video Demo](./HomePage.png)](https://youtu.be/3Do_9hY3HMU)
 
-Pitch Pasantías Paso a Paso: [Abrir Presentación del proyecto](./Pitch)
+Pitch Pasantías Paso a Paso: [Presentación del Proyecto](./Pitch)
 
 
 
