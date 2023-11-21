@@ -10,7 +10,7 @@ const app = express();
 let client;
 let session;
 // Configura la API Key de SendGrid
-sgMail.setApiKey('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');
+sgMail.setApiKey('');
 
 app.use(express.json());
 app.use(express.urlencoded());
